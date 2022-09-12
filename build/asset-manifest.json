@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.b62ee133.css",
-    "main.js": "/static/js/main.8dd9eda3.js",
-    "static/media/map-home.svg": "/static/media/map-home.9f483530d5edbc416810ab14b4574f14.svg",
-    "static/media/map-home-md.svg": "/static/media/map-home-md.fdc574ac9d61d932c12fd010e7628108.svg",
-    "static/media/map-home-sm.svg": "/static/media/map-home-sm.13b18e965398228c887f7a135838e984.svg",
+    "main.css": "/static/css/main.0af136e0.css",
+    "main.js": "/static/js/main.0c2fc4ae.js",
+    "static/media/map-home.svg": "/static/media/map-home.031d3bfcb205fbb5237c5a551ac5def4.svg",
+    "static/media/map-home-md.svg": "/static/media/map-home-md.fe25f74b86a2a8657998fd9d09453e44.svg",
+    "static/media/map-home-sm.svg": "/static/media/map-home-sm.cd602b53c4e2b0c0bd75b464a6cf3d4d.svg",
     "static/media/bg-log.png": "/static/media/bg-log.15a74674f64713ccfb82.png",
+    "static/media/bg-footer-content.png": "/static/media/bg-footer-content.c2b2f703b0bb69fbfe2a.png",
     "static/media/map-logo.svg": "/static/media/map-logo.cbd1cee1a1819ef2afbf3911f6c4ac51.svg",
     "static/media/logo.svg": "/static/media/logo.b03d1aa46041ae9ddd4dcf35ddcb93b0.svg",
     "static/media/bg-main.png": "/static/media/bg-main.b4e3422078d79c7b17af.png",
     "static/media/bg-banner.png": "/static/media/bg-banner.d86cf548488f036dbab6.png",
     "static/media/footer_logo.svg": "/static/media/footer_logo.fbaa68de7f02a3ae55108b862b551755.svg",
+    "static/media/bg-footer.png": "/static/media/bg-footer.4236928c6a5422cdad54.png",
     "static/media/ex.png": "/static/media/ex.f5a07b16e0e02621aa26.png",
     "static/media/bg-header.png": "/static/media/bg-header.089ff49d36344594a91e.png",
     "static/media/slide-apar.png": "/static/media/slide-apar.df87638267d3eba12b6e.png",
     "static/media/hotel-ex.png": "/static/media/hotel-ex.3680568b3db11a35c754.png",
     "static/media/bg-breadcrumb.png": "/static/media/bg-breadcrumb.d87537c547ae30ffc42a.png",
     "static/media/img-apart.png": "/static/media/img-apart.4de829d94e4abef6acac.png",
+    "static/media/swipe.svg": "/static/media/swipe.adfa367f39f2abead885bdafd5527917.svg",
     "static/media/objects-apar.png": "/static/media/objects-apar.094e23f957ee2f8416a3.png",
     "static/media/bg-about-honel.png": "/static/media/bg-about-honel.3834e39cc844a6c91d7b.png",
     "static/media/pen.svg": "/static/media/pen.56231c2a1971a0df8b8c.svg",
@@ -74,12 +77,12 @@
     "static/media/facebook-blue.svg": "/static/media/facebook-blue.d3634ba98bd892c4b5cf0fd8493e5fcc.svg",
     "static/media/Icon_Working.svg": "/static/media/Icon_Working.111c07a5f47ca49a65481aa658b38004.svg",
     "static/media/arrow-down-white.svg": "/static/media/arrow-down-white.09c260646236ecebe923.svg",
-    "index.html": "/index.html",
     "static/media/analytics-color.svg": "/static/media/analytics-color.b8b25f18dd5dadc1540f81a7ebe93ecf.svg",
     "static/media/blob-haikei.svg": "/static/media/blob-haikei.bb89461c3c5a0d5e43f8.svg",
     "static/media/start-active.svg": "/static/media/start-active.db71e6e6e1a8c713d709c3137769907c.svg",
     "static/media/check-blue.svg": "/static/media/check-blue.fbe3ace4716bed46a3e9.svg",
     "static/media/point.svg": "/static/media/point.ff454b91bc663af6992347acdd5f0826.svg",
+    "index.html": "/index.html",
     "static/media/fb.svg": "/static/media/fb.a8110ec8b83bd1a1c4e413d6ea8a2e62.svg",
     "static/media/arrow-right-line.svg": "/static/media/arrow-right-line.7eed5934b0720086f54826ef9b682ac6.svg",
     "static/media/star.svg": "/static/media/star.37ad288ae459547bf47a41ce10467300.svg",
@@ -88,11 +91,11 @@
     "static/media/pluss.svg": "/static/media/pluss.ce9756aa5d5f6ac13d0f98dd01e139e7.svg",
     "static/media/arrow-down-blue.svg": "/static/media/arrow-down-blue.c1e7662dfc6ced78573383b286eee13b.svg",
     "static/media/minus.svg": "/static/media/minus.588b3138ccf6bce4bc52519e827c2052.svg",
-    "main.b62ee133.css.map": "/static/css/main.b62ee133.css.map",
-    "main.8dd9eda3.js.map": "/static/js/main.8dd9eda3.js.map"
+    "main.0af136e0.css.map": "/static/css/main.0af136e0.css.map",
+    "main.0c2fc4ae.js.map": "/static/js/main.0c2fc4ae.js.map"
   },
   "entrypoints": [
-    "static/css/main.b62ee133.css",
-    "static/js/main.8dd9eda3.js"
+    "static/css/main.0af136e0.css",
+    "static/js/main.0c2fc4ae.js"
   ]
 }
